@@ -1,0 +1,76 @@
+p{
+    color: blue;
+    letter-spacing: 1px;
+    font-size: 15px;
+  }
+  
+  #mobilenet{
+    letter-spacing: 2px;
+  }
+  
+  .google_lens{
+    letter-spacing: 2px;
+  }
+  
+  .img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+  }
+  
+  .white1{
+    color: rgb(211, 228, 16);
+  }
+  
+  span{
+    letter-spacing: 1px;
+    color: yellow;
+  }
+  
+  b{
+    color: lightgreen;
+  }
+  
+  .first,.second{
+    background-color: rgb(199, 10, 10);
+    border-radius: 10px;
+    line-height: 2;
+  }
+  
+  .test_image_and_result1{
+    margin-top: 15px;
+  background-color: darkblue;
+  border-radius: 10px;
+  box-shadow: 1px 1px 25px rgb(238, 99, 238);
+  width: 99%;
+  margin-bottom: 15px;
+  }
+  
+  .google_lens{
+    color: red;
+  }
+  
+  h4{
+    color: orange;
+    font-weight: bold;
+  }
+  
+  .bottom{
+    color: rgb(33, 189, 241);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+  }
+  
+  h5 span{
+    font-weight: bold;
+  }
+  
+  .bottom1{
+    font-weight: bold;
+    font-size: 15px;
+    width: 50%;
+  }
